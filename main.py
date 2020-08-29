@@ -3,7 +3,7 @@ def mult(x, y):
     i = 0
     while i < y:       # Here I choose 'y'  (witch is the base) to show how many times 'x' going to be sum with itself.
         i += 1
-        result_mult += x # 2+2
+        result_mult += x 
 
     return result_mult
 
