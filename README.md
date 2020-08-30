@@ -8,5 +8,5 @@
 **Cloning repository and running**
 
 ```bash
-$ git clone https://github.com/Vitorrrocha/react_movies && cd react_movies
+$ git clone https://github.com/Vitorrrocha/onlySum.git
 ```
